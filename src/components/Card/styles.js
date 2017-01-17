@@ -16,7 +16,6 @@ export default StyleSheet.create({
     elevation: 1,
     marginLeft: 5,
     marginRight: 5,
-    marginTop: 10,
-    padding: 5
+    marginTop: 10
   }
 });
